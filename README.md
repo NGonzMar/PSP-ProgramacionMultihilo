@@ -1,1 +1,1 @@
-# PSP-ProgramacionMultihilo
+# Ejercicios de práctica del Tema 2 de Programación Multihilo en Programación de Servicios y procesos del segundo curso de DAM
